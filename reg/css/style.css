@@ -41,7 +41,7 @@ h1 {
 .main-agileinfo {
     width: 35%;
     margin: 0 auto;
-    background: url(../images/1.jpg) no-repeat center;
+    background: url(/reg/images/1.jpg) no-repeat center;
     background-size: cover;
 }
 .agileits-top {
